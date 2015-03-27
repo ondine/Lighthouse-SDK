@@ -22,4 +22,4 @@ Features of the SDK
 -	Supported Development Environments for iOS app development 
 o	Xcode version 6 
 o	OS X 10.9.4 
--	Revision controlled code base hosted at https://github.com/MocanaDevNetwork
+-	Revision controlled code base hosted at https://github.com/MocanaCorp/Lighthouse-SDK
