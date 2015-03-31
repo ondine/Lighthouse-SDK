@@ -20,6 +20,6 @@ Features of the SDK
 -	Supports iOS 7 and above 
 -	Supports Android 4.0 and above 
 -	Supported Development Environments for iOS app development 
-o	Xcode version 6 
-o	OS X 10.9.4 
+  -	Xcode version 6 
+  -	OS X 10.9.4 
 -	Revision controlled code base hosted at https://github.com/MocanaCorp/Lighthouse-SDK
