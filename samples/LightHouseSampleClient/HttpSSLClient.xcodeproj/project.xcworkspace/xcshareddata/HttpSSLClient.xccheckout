@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B1B9D54-62FF-45E4-AAE0-CE10F671692B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HttpSSLClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA6FEB2ACA72B4D0BB015C3F722D3DE2D564E024</key>
+		<string>https://github.com/MocanaONDevNetwork/LighthouseHTTPiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HttpSSLClient.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA6FEB2ACA72B4D0BB015C3F722D3DE2D564E024</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MocanaONDevNetwork/LighthouseHTTPiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA6FEB2ACA72B4D0BB015C3F722D3DE2D564E024</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA6FEB2ACA72B4D0BB015C3F722D3DE2D564E024</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HTTP_x509</string>
+		</dict>
+	</array>
+</dict>
+</plist>

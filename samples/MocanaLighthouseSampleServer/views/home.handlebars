@@ -1,0 +1,8 @@
+<h1 class="jumbotron">Welcome to Mocana Lighthouse Sample App</h1>
+{{> userData}}
+
+<script type="text/javascript">
+    if($("#userInfo").text() == "NO CERT!"){
+        $("#userInfo").removeClass("list-group-item-success").addClass("list-group-item-danger");
+    }
+</script>
