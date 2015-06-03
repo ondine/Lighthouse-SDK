@@ -32,7 +32,7 @@ Included in the Lighthouse SDK are Android and iOS [sample applications](https:/
 - **iOS:** _X509 Embedded_
 
 #### 3.  Terminology
-This document assumes a basic familiarity with **Mocana's Atlas Platform**. Enumerated below are key components involved in integrating the Lighthouse SDK. If you're already familiar with these technologies, and just want to look at the source code, feel free to skip ahead to the [API Reference](#anchor5) and integrate with your organization's back-end.
+This document assumes a basic familiarity with **Mocana's Atlas Platform**. Enumerated below are key components involved in integrating the Lighthouse SDK. If you're already familiar with these technologies, and just want to look at the source code, feel free to skip ahead to the [API Reference](#api-reference-function-calls-and-returns) and integrate with your organization's back-end.
 
 1. **Application wrapping** injects enterprise security into mobile applications. You can _app-wrap_ an app binary (.ipa or .apk) with Mocana's **MAP (Mobile Application Protection)** to apply policies, add further authentication or restrict an app or device from specific functions.
 2. **MAP Wrapper** is Mocana's policy and security code that is injected into apps.
