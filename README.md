@@ -105,7 +105,7 @@ To begin, choose the **Android** or **iOS** Sample App:
 - **Android:** [_map-certificate-viewer_](#android-sample-app-map-certificate-viewer)
 - **iOS:** [_X509 Embedded_](#ios-sample-app--x509-embedded)
 
-###Android Sample App: [_map-certificate-viewer_](#android-sample-app-map-certificate-viewer)
+###Android Sample App: _map-certificate-viewer_
 Download and test the **unwrapped** sample Android application on the Android device.
 
 The Android sample project, **map-certificate-viewer**, is implemented as a _single view application_ and does not have any major dependencies outside of the Lighthouse SDK (which is included in this Sample Application).
@@ -163,7 +163,7 @@ The following line simply returns an **X509 Certificate object**, so all standar
 The entire set of methods provided by `MAPCertificateProvider` are listed in the [API Reference](#anchor5) later on in this document. Feel free to skip ahead to that section for more detailed information.
 
 
-###iOS Sample App: : [_X509 Embedded_]
+###iOS Sample App: : _X509 Embedded_
 Download and test the **unwrapped** iOS Sample Application on the iOS Device
 
 
