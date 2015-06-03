@@ -29,7 +29,7 @@ These development environment-specific files enable the core features of the Lig
 Included in the Lighthouse SDK are Android and iOS [sample applications](https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples) showing sample integrations. If you'd like to share your own example, just [**let us know.**](https://success.mocana.com "success.mocana.com")
 
 - **Android:** [_map-certificate-viewer_] (https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples/android)
-- **iOS:** _X509 Embedded_
+- **iOS:** [_X509 Embedded_] (https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples/ios/X509%20Embedded)
 
 #### 3.  Terminology
 This document assumes a basic familiarity with **Mocana's Atlas Platform**. Enumerated below are key components involved in integrating the Lighthouse SDK. If you're already familiar with these technologies, and just want to look at the source code, feel free to skip ahead to the [API Reference](#api-reference) and integrate with your organization's back-end.
