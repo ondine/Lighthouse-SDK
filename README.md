@@ -278,7 +278,7 @@ To review the source and understand how this application was integrated with the
 The next section contains both _**API Reference**_ and _**Authentication**_ context for the Lighthouse SDK.  
 
 
-## [API Reference]
+## API Reference
 In addition to callbacks defined specifically for X.509 certificate management, these function calls defined for Mocana Atlas Lighthouse SDK will expose the following properties and methods:
 
 ##### Android Lighthouse SDK methods
