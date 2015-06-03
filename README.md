@@ -26,7 +26,7 @@ These development environment-specific files enable the core features of the Lig
 - _MAPSDK.h_
 - _MAPSDK.m_
 
-Included in the Lighthouse SDK are Android and iOS [sample applications](https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples) showing sample integrations. If you'd like to share your own example, just [**let us know.**](https://success.mocana.com "success.mocana.com")
+Included in the Lighthouse SDK are Android and iOS [Sample Applications](https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples) showing sample integrations. If you'd like to share your own example, just [**let us know.**](https://success.mocana.com "success.mocana.com")
 
 - **Android:** [_map-certificate-viewer_] (https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples/android)
 - **iOS:** [_X509 Embedded_] (https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples/ios/X509%20Embedded)
@@ -432,7 +432,7 @@ We're always happy to help out with code or any other questions you might have. 
 
 **Question: Where and how do I insert the code?**
 
-**Answer:** The API reference and Sample Applications provides methods and context for where and how to implement the Lighthouse SDK.
+**Answer:** The [API Reference](#api-reference) and [Sample Applications](https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples) provides methods and context for where and how to implement the Lighthouse SDK.
 
 
 ### Certificate Errors
