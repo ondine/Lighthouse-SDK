@@ -190,7 +190,7 @@ The entire set of methods provided by `MAPSDK.m` are listed in detail later on i
 In this scenario, you'll compile and run the Sample Application and then wrap it with MAP using the Lighthouse VPN policy. Upon successful completion, compile and run the MAP-wrapped Sample Application and test the connection to Mocana's hosted Atlas, using your Mocana provided username and password.
 
 - **Android:**
-- **iOS:** (_[code-signing script](https://success.mocana.com/hc/en-us/articles/201140698) _required)
+- **iOS:** ([code-signing script](https://success.mocana.com/hc/en-us/articles/201140698) _required)
 
 _**Note:** Following the wrapping process the app must be signed with your iOS developer's credentials.  Mocana provides a code-signing script that appropriately handles the format of the MAP wrapped app._
 
@@ -278,7 +278,7 @@ To review the source and understand how this application was integrated with the
 The next section contains both _**API Reference**_ and _**Authentication**_ context for the Lighthouse SDK.  
 
 
-## [API Reference](id:anchor5) (Function calls and returns)
+## [API Reference](Function calls and returns)
 In addition to callbacks defined specifically for X.509 certificate management, these function calls defined for Mocana Atlas Lighthouse SDK will expose the following properties and methods:
 
 ##### Android Lighthouse SDK methods
