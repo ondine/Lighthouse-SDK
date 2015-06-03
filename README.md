@@ -62,7 +62,7 @@ To begin, choose an environment, **Android** or **iOS** and a scenario:
 	- [**iOS**](#ios-sample-app--x509-embedded) (See code-sign note in section two for iOS apps )
 	
 
-3. **[Lighthouse Sample Client to Atlas-connected MocanaLighthouse Sample Server](#anchor3).** In this **iOS only** scenario, you'll have access to the precompiled _**MocanaSSO**_ application, the Lighthouse Sample Client and the Lighthouse Sample Server and to the source code. Having successfully connected to Atlas, you'll connect to the Mocana-hosted back-end test server: **gilbert.mocana.local**.
+3. **[Lighthouse Sample Client to Atlas-connected MocanaLighthouse Sample Server](#3-atlas-connected-lighthouse-sample-client-to-test-server).** In this **iOS only** scenario, you'll have access to the precompiled _**MocanaSSO**_ application, the Lighthouse Sample Client and the Lighthouse Sample Server and to the source code. Having successfully connected to Atlas, you'll connect to the Mocana-hosted back-end test server: **gilbert.mocana.local**.
 	- **[API Reference](#api-reference)**
 	- **[Authentication](#authentication)**  
 
