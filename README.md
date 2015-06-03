@@ -32,7 +32,7 @@ Included in the Lighthouse SDK are Android and iOS [sample applications](https:/
 - **iOS:** _X509 Embedded_
 
 #### 3.  Terminology
-This document assumes a basic familiarity with **Mocana's Atlas Platform**. Enumerated below are key components involved in integrating the Lighthouse SDK. If you're already familiar with these technologies, and just want to look at the source code, feel free to skip ahead to the [API Reference](#api-reference-function-calls-and-returns) and integrate with your organization's back-end.
+This document assumes a basic familiarity with **Mocana's Atlas Platform**. Enumerated below are key components involved in integrating the Lighthouse SDK. If you're already familiar with these technologies, and just want to look at the source code, feel free to skip ahead to the [API Reference](#api-reference) and integrate with your organization's back-end.
 
 1. **Application wrapping** injects enterprise security into mobile applications. You can _app-wrap_ an app binary (.ipa or .apk) with Mocana's **MAP (Mobile Application Protection)** to apply policies, add further authentication or restrict an app or device from specific functions.
 2. **MAP Wrapper** is Mocana's policy and security code that is injected into apps.
@@ -63,7 +63,7 @@ To begin, choose an environment, **Android** or **iOS** and a scenario:
 	
 
 3. **[Lighthouse Sample Client to Atlas-connected MocanaLighthouse Sample Server](#anchor3).** In this **iOS only** scenario, you'll have access to the precompiled _**MocanaSSO**_ application, the Lighthouse Sample Client and the Lighthouse Sample Server and to the source code. Having successfully connected to Atlas, you'll connect to the Mocana-hosted back-end test server: **gilbert.mocana.local**.
-	- **[API Reference](#api-reference-function-calls-and-returns)**
+	- **[API Reference](#api-reference)**
 	- **[Authentication](#authentication)**  
 
 4. **[Connect your Organization's Wrapped Application](#anchor4)**, Integrate the Mocana Atlas Lighthouse SDK. Compile, wrap and connect to Atlas. Integrate your back-end production environment.
@@ -102,10 +102,10 @@ To begin, choose the **Android** or **iOS** Sample App:
 
 ####Sample Applications
 
-- **Android:** [_map-certificate-viewer_](#android)
-- **iOS:** [_X509 Embedded_](#anchor7)
+- **Android:** [_map-certificate-viewer_](#android-sample-app-map-certificate-viewer)
+- **iOS:** [_X509 Embedded_](#ios-sample-app--x509-embedded)
 
-###Android Sample App: [_map-certificate-viewer_](#android)
+###Android Sample App: [_map-certificate-viewer_](#android-sample-app-map-certificate-viewer
 Download and test the **unwrapped** sample Android application on the Android device.
 
 The Android sample project, **map-certificate-viewer**, is implemented as a _single view application_ and does not have any major dependencies outside of the Lighthouse SDK (which is included in this Sample Application).
