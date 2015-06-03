@@ -390,7 +390,7 @@ Steps 1, 2, and 3 happen when any wrapped application connects to Atlas. The add
 ![Map Image](https://hamkke.mocana.com/owncloud/index.php/s/voaqXovLv1BVBZL/download)
 
 
-## 4. [Connect and integrate ATLAS with your organization's back-end production environment](id:anchor4)
+## 4. Connect and integrate ATLAS with your organization's back-end production environment
 
 There are many common enterprise systems and services that support X.509 certificate-based client authentication, including most SAP systems, Domino, Apache, IIS and more.  Applications your organization has built to connect to those systems can use Atlas and the Lighthouse SDK to provide prompt-less user authentication and a highly secure, yet streamlined user experience.
 
@@ -399,7 +399,7 @@ For assistance with the Atlas platform and the Lighthouse SDK please use [Mocana
 
 ## Resources
 
-Below you'll find resources and tutorials that teach how to integrate **mutual authentication over SSL** and/or **Certificate Enrollment** for different development environments. In addition there are code examples in the [**Sample Applications**](#anchor1) section which demonstrate the use and context of the Mocana Atlas Lighthouse SDK APIs.
+Below you'll find resources and tutorials that teach how to integrate **mutual authentication over SSL** and/or **Certificate Enrollment** for different development environments. In addition there are code examples in the [**Sample Applications**](https://github.com/MocanaCorp/Lighthouse-SDK/tree/master/samples) section which demonstrate the use and context of the Mocana Atlas Lighthouse SDK APIs.
 
 #### Android and iOS
 
