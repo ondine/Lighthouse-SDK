@@ -91,7 +91,7 @@ Compatible with iOS 7.x and greater. To develop with iOS and **Xcode**, Apple’
 - An iOS mobile device.
 
 
-## 1. [Introduction to Lighthouse SDK](id:anchor1)
+## 1. [Introduction to Lighthouse SDK]
 
 _Lighthouse SDK_ is used in combination with MAP and Atlas.  Developers of connected enterprise mobile apps can minimize the number of authentication prompts their users face by  enabling certificate-based authentication to enterprise systems and services, typically with mutually-authenticated SSL.  The Lighthouse SDK connects the app to the MAP Wrapper to obtain the user certificate that is provisioned and managed by Atlas and the MAP Wrapper.
 
@@ -278,7 +278,7 @@ To review the source and understand how this application was integrated with the
 The next section contains both _**API Reference**_ and _**Authentication**_ context for the Lighthouse SDK.  
 
 
-## [API Reference](Function calls and returns)
+## [API Reference]
 In addition to callbacks defined specifically for X.509 certificate management, these function calls defined for Mocana Atlas Lighthouse SDK will expose the following properties and methods:
 
 ##### Android Lighthouse SDK methods
