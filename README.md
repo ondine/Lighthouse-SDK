@@ -163,7 +163,7 @@ The following line simply returns an **X509 Certificate object**, so all standar
 The entire set of methods provided by `MAPCertificateProvider` are listed in the [API Reference](#anchor5) later on in this document. Feel free to skip ahead to that section for more detailed information.
 
 
-###iOS Sample App: : _X509 Embedded_
+###iOS Sample App: _X509 Embedded_
 Download and test the **unwrapped** iOS Sample Application on the iOS Device
 
 
@@ -192,7 +192,7 @@ In this scenario, you'll compile and run the Sample Application and then wrap it
 - **Android:**
 - **iOS:** [_code-signing script_](https://success.mocana.com/hc/en-us/articles/201140698) required)
 
-_**Note:** Following the wrapping process the app must be signed with your iOS developer's credentials.  Mocana provides a code-signing script that appropriately handles the format of the MAP wrapped app._
+_**Note:** Following the wrapping process the app must be signed with your iOS developer's credentials.  Mocana provides a code-signing script that appropriately handles the format of the MAP wrapped app. Login to the support portal with your MDP credentials to download the script._
 
 Start by securing the Sample Application using Mocana **MAP** (Mobile App Protection), the _client_ component of the **Atlas** platform. This section explains how to use the MAP Console to wrap your applications and ensure they are enveloped with airtight data security policies.
 
