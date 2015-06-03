@@ -52,7 +52,7 @@ The first module runs on a local client without the need for a test server. The 
 
 To begin, choose an environment, **Android** or **iOS** and a scenario:
 
-1. **[Introduction to Lighthouse SDK](#anchor1)** In this scenario, you'll compile and run the Sample Application in debug mode on a local client without the need of a network connection.
+1. **[Introduction to Lighthouse SDK](#1-introduction-to-lighthouse-sdk)** In this scenario, you'll compile and run the Sample Application in debug mode on a local client without the need of a network connection.
 	- [**Android**](#anchor6)
 	- [**iOS**](#anchor7)
 
