@@ -54,12 +54,12 @@ To begin, choose an environment, **Android** or **iOS** and a scenario:
 
 1. **[Introduction to Lighthouse SDK](#1-introduction-to-lighthouse-sdk)** In this scenario, you'll compile and run the Sample Application in debug mode on a local client without the need of a network connection.
 	- [**Android**](#android-sample-app-map-certificate-viewer)
-	- [**iOS**](#anchor7)
+	- [**iOS**](#ios-sample-app--x509-embedded)
 
 2. **[Wrap the Sample Application with MAP and connect to Atlas](#anchor2).** In this scenario, you'll compile and run the Sample Application and then wrap it with MAP policies of your choosing. Run the MAP-wrapped Sample Application and test your connection to Mocana's hosted Atlas, using your **Mocana Developer Program** username and password, which is emailed upon MDP enrollment.
 
 	- [**Android**](#android-sample-app-map-certificate-viewer)
-	- [**iOS**](#anchor2) (See code-sign note in section two for iOS apps )
+	- [**iOS**](#ios-sample-app--x509-embedded) (See code-sign note in section two for iOS apps )
 	
 
 3. **[Lighthouse Sample Client to Atlas-connected MocanaLighthouse Sample Server](#anchor3).** In this **iOS only** scenario, you'll have access to the precompiled _**MocanaSSO**_ application, the Lighthouse Sample Client and the Lighthouse Sample Server and to the source code. Having successfully connected to Atlas, you'll connect to the Mocana-hosted back-end test server: **gilbert.mocana.local**.
