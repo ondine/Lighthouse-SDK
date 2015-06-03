@@ -53,12 +53,12 @@ The first module runs on a local client without the need for a test server. The 
 To begin, choose an environment, **Android** or **iOS** and a scenario:
 
 1. **[Introduction to Lighthouse SDK](#1-introduction-to-lighthouse-sdk)** In this scenario, you'll compile and run the Sample Application in debug mode on a local client without the need of a network connection.
-	- [**Android**](#anchor6)
+	- [**Android**](#android)
 	- [**iOS**](#anchor7)
 
 2. **[Wrap the Sample Application with MAP and connect to Atlas](#anchor2).** In this scenario, you'll compile and run the Sample Application and then wrap it with MAP policies of your choosing. Run the MAP-wrapped Sample Application and test your connection to Mocana's hosted Atlas, using your **Mocana Developer Program** username and password, which is emailed upon MDP enrollment.
 
-	- [**Android**](#anchor2)
+	- [**Android**](#android)
 	- [**iOS**](#anchor2) (See code-sign note in section two for iOS apps )
 	
 
@@ -102,10 +102,10 @@ To begin, choose the **Android** or **iOS** Sample App:
 
 ####Sample Applications
 
-- **Android:** [_map-certificate-viewer_](#anchor6)
+- **Android:** [_map-certificate-viewer_](#android)
 - **iOS:** [_X509 Embedded_](#anchor7)
 
-###Android Sample App: [_map-certificate-viewer_](id:anchor6)
+###Android Sample App: [_map-certificate-viewer_](#android)
 Download and test the **unwrapped** sample Android application on the Android device.
 
 The Android sample project, **map-certificate-viewer**, is implemented as a _single view application_ and does not have any major dependencies outside of the Lighthouse SDK (which is included in this Sample Application).
