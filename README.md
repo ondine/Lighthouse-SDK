@@ -185,12 +185,12 @@ The entire set of methods provided by `MAPSDK.m` are listed in detail later on i
 
 ======
 
-## 2. [Wrap the Sample App with MAP and connect to ATLAS](id:anchor2)
+## 2. Wrap the Sample App with MAP and connect to ATLAS
 
 In this scenario, you'll compile and run the Sample Application and then wrap it with MAP using the Lighthouse VPN policy. Upon successful completion, compile and run the MAP-wrapped Sample Application and test the connection to Mocana's hosted Atlas, using your Mocana provided username and password.
 
 - **Android:**
-- **iOS:** ([code-signing script](https://success.mocana.com/hc/en-us/articles/201140698) _required)
+- **iOS:** [_code-signing script_](https://success.mocana.com/hc/en-us/articles/201140698) required)
 
 _**Note:** Following the wrapping process the app must be signed with your iOS developer's credentials.  Mocana provides a code-signing script that appropriately handles the format of the MAP wrapped app._
 
