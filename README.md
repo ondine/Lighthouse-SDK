@@ -192,7 +192,7 @@ In this scenario, you'll compile and run the Sample Application and then wrap it
 - **Android:**
 - **iOS:** [_code-signing script_](https://success.mocana.com/hc/en-us/articles/201140698) required)
 
-_**Note:** Following the wrapping process the app must be signed with your iOS developer's credentials.  Mocana provides a code-signing script that appropriately handles the format of the MAP wrapped app. Login to the support portal with your MDP credentials to download the script._
+_**Note:** Following the wrapping process the app must be signed with your iOS developer's credentials.  Mocana provides a code-signing script that appropriately handles the format of the MAP wrapped app. You will be prompted to login to the support portal with your MDP credentials to access and download the script._
 
 Start by securing the Sample Application using Mocana **MAP** (Mobile App Protection), the _client_ component of the **Atlas** platform. This section explains how to use the MAP Console to wrap your applications and ensure they are enveloped with airtight data security policies.
 
