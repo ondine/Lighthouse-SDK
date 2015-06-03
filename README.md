@@ -63,7 +63,7 @@ To begin, choose an environment, **Android** or **iOS** and a scenario:
 	
 
 3. **[Lighthouse Sample Client to Atlas-connected MocanaLighthouse Sample Server](#anchor3).** In this **iOS only** scenario, you'll have access to the precompiled _**MocanaSSO**_ application, the Lighthouse Sample Client and the Lighthouse Sample Server and to the source code. Having successfully connected to Atlas, you'll connect to the Mocana-hosted back-end test server: **gilbert.mocana.local**.
-	- **[API Reference](#anchor5)**
+	- **[API Reference](#api-reference-function-calls-and-returns)**
 	- **[Authentication](#anchor8)**  
 
 4. **[Connect your Organization's Wrapped Application](#anchor4)**, Integrate the Mocana Atlas Lighthouse SDK. Compile, wrap and connect to Atlas. Integrate your back-end production environment.
