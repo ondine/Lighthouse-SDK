@@ -56,7 +56,7 @@ To begin, choose an environment, **Android** or **iOS** and a scenario:
 	- [**Android**](#android-sample-app-map-certificate-viewer)
 	- [**iOS**](#ios-sample-app--x509-embedded)
 
-2. **[Wrap the Sample Application with MAP and connect to Atlas](#anchor2).** In this scenario, you'll compile and run the Sample Application and then wrap it with MAP policies of your choosing. Run the MAP-wrapped Sample Application and test your connection to Mocana's hosted Atlas, using your **Mocana Developer Program** username and password, which is emailed upon MDP enrollment.
+2. **[Wrap the Sample Application with MAP and connect to Atlas](#2-wrap-the-sample-app-with-map-and-connect-to-atlas).** In this scenario, you'll compile and run the Sample Application and then wrap it with MAP policies of your choosing. Run the MAP-wrapped Sample Application and test your connection to Mocana's hosted Atlas, using your **Mocana Developer Program** username and password, which is emailed upon MDP enrollment.
 
 	- [**Android**](#android-sample-app-map-certificate-viewer)
 	- [**iOS**](#ios-sample-app--x509-embedded) (See code-sign note in section two for iOS apps )
